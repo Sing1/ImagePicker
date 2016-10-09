@@ -10,7 +10,7 @@
 ```groovy
 dependencies {
     ...
-    compile 'sing.imagepicker:library:1.0.1'
+    compile 'sing.imagepicker:library:1.0.2'
 }
 ```
 ## Maven:
@@ -18,11 +18,11 @@ dependencies {
 <dependency>
   <groupId>sing.imagepicker</groupId>
   <artifactId>library</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <type>pom</type>
 </dependency>
 ```
 ## sample 
 ```JAVA    
- 
+ 未提交审核，暂不可使用，如需急用，可下载源码
 ```
